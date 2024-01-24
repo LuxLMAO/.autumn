@@ -8,7 +8,6 @@ function App() {
         
       </header>
       <main>
-
       </main>
       <footer>
         
